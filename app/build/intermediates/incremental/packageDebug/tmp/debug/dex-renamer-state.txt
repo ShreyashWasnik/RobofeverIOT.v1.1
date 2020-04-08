@@ -1,0 +1,4 @@
+#Wed Apr 08 21:36:50 IST 2020
+base.0=D\:\\Downloads\\Android\\RobofeverIOT.v1-master\\RobofeverIOT.v1-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
